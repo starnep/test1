@@ -12,9 +12,3 @@
 <html>
 <head>
 	<title>dpdpf</title>
-</head>
-<body>
- <h1>ง่วงนอนจุง</h1>
- <h2>a;;</h2>
-</body>
-</html>
